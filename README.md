@@ -1,2 +1,2 @@
 # JCUClassDownloader
-Help JCU students to download class timetables to local calendar.
+Help JCU students to download class timetable to local calendar.
